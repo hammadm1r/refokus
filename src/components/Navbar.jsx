@@ -24,7 +24,7 @@ const Navbar = () => {
       </div>
       </div>
       <div>
-        <Button/>
+        <Button prop={"Get Started"}/>
       </div>
     </div>
   );
